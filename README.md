@@ -15,7 +15,7 @@ The script does the following :
 ## Part I - WeatherPy
 Created a series of scatter plots to showcase the following relationships:
 <br clear="all">
-    <table width="80">
+    <table width="50">
     <tr>
     <td width="20%"><img src="WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg"></td>
     <td width="20%"><img src="WeatherPy/output_plots/city_lat_vs_Humidity.jpeg"></td>
