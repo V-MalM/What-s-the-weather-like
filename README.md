@@ -15,12 +15,12 @@ The script does the following :
 Created a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
-<br clear="all">
-<table width="35%">
-<tr><td><img src="/WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg">
-</td><td><img src="/WeatherPy/output_plots/city_lat_vs_Humidity.jpeg">
-</td><td><img src="/WeatherPy/output_plots/city_lat_vs_Cloudiness.jpeg">
-</td><td><img src="/WeatherPy/output_plots/city_lat_vs_Wind_Speed.jpeg">
+<br clear = "all">
+<table><tr><td>
+!(https://github.com/V-MalM/python-api-challenge/blob/main/WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg">
+!(https://github.com/V-MalM/python-api-challenge/blob/main/WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg">
+!(https://github.com/V-MalM/python-api-challenge/blob/main/WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg">
+!(https://github.com/V-MalM/python-api-challenge/blob/main/WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg">
 </td></tr>
 </table>
 * Humidity (%) vs. Latitude
