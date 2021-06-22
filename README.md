@@ -57,7 +57,7 @@ Used jupyter-gmaps and the Google Places API for this fun exercise .
 
 * Created a heat map that displays the humidity for every city from Part I.
 
-  ![heatmap](Images/heatmap.png)
+  ![heatmap](WeatherPy/Heat_Maps/heat_map.jpg)
 
 * Narrowed down the DataFrame to find ideal weather condition. For example:
 
@@ -73,14 +73,33 @@ Used jupyter-gmaps and the Google Places API for this fun exercise .
 
 * Plotted the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](Images/hotel_map.png)
+  ![hotel map](WeatherPy/Heat_Maps/vaca_heat_map.jpg)
 
-As final considerations:
-
+#### Key notes:
+* Saved images in both 'png' and 'jpeg' formats.
 * Analysis was done using a Jupyter notebook.
+* Defined and used functions
+* Used citipy and OpenWeatherMap API and gmaps
 * Used Matplotlib or Pandas plotting libraries.
 * For Part I, Find written description of three observable trends based on the data at the top of notebook.
 * For Part II, included a screenshot of the heatmap and saved it to the folder.
 * Used proper labeling plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
 * Used color maps.
 * For max intensity in the heat map, set the highest humidity found in the data set.
+
+#### Execution:
+  * Important : Please download the repository.
+  * The script for Part I is in the Jupyter notebook 'WeatherPy.ipynb' which can be located in the folder WeatherPy.
+    * Find written description of three observable trends based on the data at the top of notebook.
+  * The script for Part II is in the Jupyter notebook 'WVacationPy.ipynb' which can be located in the folder WeatherPy.
+    * Find a screenshot of the heatmaps the folder 'Heat_Maps'
+  * Both files have detailed comments explaining each segment.
+    
+#### Results:
+   * Tested it multiple times.
+   * All the segments of Jupyter notebook executed successfully generating the final report.
+   * Successfully displays required output results, plots and maps.
+
+###### eRRORS !!!! What ERRORS ????
+* REST ASSURED, the code runs error free. Just Follow these detailed instructions ....
+
