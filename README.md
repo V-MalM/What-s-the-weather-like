@@ -77,9 +77,10 @@ Used jupyter-gmaps and the Google Places API for this fun exercise .
 
 As final considerations:
 
-* You must complete your analysis using a Jupyter notebook.
-* You must use the Matplotlib or Pandas plotting libraries.
-* For Part I, you must include a written description of three observable trends based on the data.
-* For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
-* You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
-* For max intensity in the heat map, try setting it to the highest humidity found in the data set.
+* Analysis was done using a Jupyter notebook.
+* Used Matplotlib or Pandas plotting libraries.
+* For Part I, Find written description of three observable trends based on the data at the top of notebook.
+* For Part II, included a screenshot of the heatmap and saved it to the folder.
+* Used proper labeling plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
+* Used color maps.
+* For max intensity in the heat map, set the highest humidity found in the data set.
