@@ -50,3 +50,36 @@ Created a linear regression on each relationship. Created seperate sets of plots
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 After each pair of plots, find explanation on what the linear regression is modeling and other observations, if any.
+
+### Part II - VacationPy
+
+Used jupyter-gmaps and the Google Places API for this fun exercise .
+
+* Created a heat map that displays the humidity for every city from Part I.
+
+  ![heatmap](Images/heatmap.png)
+
+* Narrowed down the DataFrame to find ideal weather condition. For example:
+
+  * A max temperature lower than 80 degrees but higher than 70.
+
+  * Wind speed less than 10 mph.
+
+  * Zero cloudiness.
+
+  * Dropped any rows that didn't contain all three conditions. We want to be sure the weather is ideal.
+
+* Using Google Places API to grabbed the first hotel for each city located within 5000 meters of search coordinates.
+
+* Plotted the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
+
+  ![hotel map](Images/hotel_map.png)
+
+As final considerations:
+
+* You must complete your analysis using a Jupyter notebook.
+* You must use the Matplotlib or Pandas plotting libraries.
+* For Part I, you must include a written description of three observable trends based on the data.
+* For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
+* You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
+* For max intensity in the heat map, try setting it to the highest humidity found in the data set.
