@@ -1,3 +1,4 @@
+
 # Python API Challenge - What's the Weather Like?
 
 ## Background
@@ -15,14 +16,6 @@ The script does the following :
 Created a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
-<br clear = "all">
-<table><tr><td>
-[](https://github.com/V-MalM/python-api-challenge/blob/main/WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg">
-!(https://github.com/V-MalM/python-api-challenge/blob/main/WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg">
-!(https://github.com/V-MalM/python-api-challenge/blob/main/WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg">
-!(https://github.com/V-MalM/python-api-challenge/blob/main/WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg">
-</td></tr>
-</table>
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
