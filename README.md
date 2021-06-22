@@ -92,7 +92,7 @@ Used jupyter-gmaps and the Google Places API for this fun exercise .
   * The script for Part I is in the Jupyter notebook 'WeatherPy.ipynb' which can be located in the folder WeatherPy.
     * Find written description of three observable trends based on the data at the top of notebook.
   * The script for Part II is in the Jupyter notebook 'WVacationPy.ipynb' which can be located in the folder WeatherPy.
-    * Find a screenshot of the heatmaps the folder 'Heat_Maps'
+    * Find a screenshot of the heatmaps in the folder 'WeatherPy/Heat_Maps'
   * Both files have detailed comments explaining each segment.
     
 #### Results:
