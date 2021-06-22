@@ -69,7 +69,7 @@ Used jupyter-gmaps and the Google Places API for this fun exercise .
 
   * Dropped any rows that didn't contain all three conditions. We want to be sure the weather is ideal.
 
-* Using Google Places API to fetched the first hotel for each city located within 5000 meters of search coordinates.
+* Using Google Places API to fetch the first hotel for each city located within 5000 meters of search coordinates.
 
 * Plotted the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
