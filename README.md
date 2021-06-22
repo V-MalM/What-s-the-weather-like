@@ -14,15 +14,13 @@ The script does the following :
 
 ## Part I - WeatherPy
 Created a series of scatter plots to showcase the following relationships:
-<br clear="all">
-    <table width="50">
+    <table width="80">
     <tr>
     <td width="20%"><img src="WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg"></td>
     <td width="20%"><img src="WeatherPy/output_plots/city_lat_vs_Humidity.jpeg"></td>
     <td width="20%"><img src="WeatherPy/output_plots/city_lat_vs_Cloudiness.jpeg"></td>
     <td width="20%"><img src="WeatherPy/output_plots/city_lat_vs_Wind_Speed.jpeg"></td>
     </tr></table>
-    <br>
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
@@ -31,7 +29,17 @@ Created a series of scatter plots to showcase the following relationships:
 The note book "WeatherPy.ipynb" has detailed explanation on what the code is analyzing.
 
 Created a linear regression on each relationship. Created seperate sets of plots for Northern Hemisphere and Southern Hemisphere:
-
+    <table width="80%">
+    <tr>
+    <td width="10%"><img src="WeatherPy/output_plots/NH_city_lat_vs_Max_TempLR.jpeg"></td>
+    <td width="10%"><img src="WeatherPy/output_plots/SH_city_lat_vs_Max_TempLR.jpeg"></td>
+    <td width="10%"><img src="WeatherPy/output_plots/NH_city_lat_vs_HumidityLR.jpeg"></td>
+    <td width="10%"><img src="WeatherPy/output_plots/SH_city_lat_vs_HumidityLR.jpeg"></td>
+    <td width="10%"><img src="WeatherPy/output_plots/NH_city_lat_vs_CloudinessLR.jpeg"></td>
+    <td width="10%"><img src="WeatherPy/output_plots/SH_city_lat_vs_CloudinessLR.jpeg"></td>
+    <td width="10%"><img src="WeatherPy/output_plots/NH_city_lat_vs_Wind_SpeedLR.jpeg"></td>
+    <td width="10%"><img src="WeatherPy/output_plots/SH_city_lat_vs_Wind_SpeedLR.jpeg"></td>    
+    </tr></table>
 * Northern Hemisphere - Temperature (F) vs. Latitude
 * Southern Hemisphere - Temperature (F) vs. Latitude
 * Northern Hemisphere - Humidity (%) vs. Latitude
