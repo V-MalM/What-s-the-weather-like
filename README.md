@@ -16,7 +16,7 @@ Created a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
 <br clear="all">
-<table width="35%"><tr><td><img src="output_plots/city_lat_vs_Max_Temp.jpeg"></td></tr></table>
+<table width="35%"><tr><td><img src="/WeatherPy/output_plots/city_lat_vs_Max_Temp.jpeg"></td></tr></table>
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
