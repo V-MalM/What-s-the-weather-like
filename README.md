@@ -73,7 +73,7 @@ Used jupyter-gmaps and the Google Places API for this fun exercise .
 
 * Plotted the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](WeatherPy/Heat_Maps/vaca_heat_map.png)
+  ![hotel map](WeatherPy/Heat_Maps/heat_map_vaca.png)
 
 #### Key notes:
 * Saved images in both 'png' and 'jpeg' formats.
